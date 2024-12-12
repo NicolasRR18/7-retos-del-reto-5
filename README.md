@@ -218,9 +218,9 @@ print(f"La raíz cúbica del menor número ({menor_2}) es: {resultado_4:.2f}")
 # BIBLIOGRAFIAS
 
 La informacion presentada en este repositorio fue toma de:
--[buscaminegocio]: <[http://example.com/](https://www.buscaminegocio.com/cursos-de-python/pip-en-python.html)>
--[inmune.institute]: <[http://example.com/](https://immune.institute/blog/librerias-python-que-son/)>
--[tecnonucleous]: <[http://example.com/](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/)>
+-[buscaminegocio]: <(https://www.buscaminegocio.com/cursos-de-python/pip-en-python.html)>
+-[inmune.institute]: <(https://immune.institute/blog/librerias-python-que-son/)>
+-[tecnonucleous]: <(https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/)>
 
 ========================================================================================================================================================================================
 
