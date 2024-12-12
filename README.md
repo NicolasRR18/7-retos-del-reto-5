@@ -1,10 +1,10 @@
 # 7-retos-del-reto-5
 ==========================================================================================================================
 
-El objetivo era resolver el reto 4, el cual consistia en
+El objetivo era resolver el reto 5, el cual consistia en
 realizar algoritmos que cumplieran con las necesidades 
 planteadas en cada punto.
-A continuacion adjunto la imagen del repo del profe Felipe:
+A continuacion adjunto la imagen del reto 5 en el repositorio del profe Felipe:
 
 =========================================================================================================================
 
