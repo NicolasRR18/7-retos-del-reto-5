@@ -181,3 +181,47 @@ print(f"La raíz cúbica del menor número ({menor_2}) es: {resultado_4:.2f}")
 
 ========================================================================================================================================================================================
 ## QUE ES PIP Y COMO FUNCIONA EN PYTHON
+
+-_Pip_ es un sistema de gestion de paquetes usado para instalar y administrar paquetes de software escritos en python con fin de descargarlos en nuestra computadora para utilizarlos en nuestros algoritmos desarrollados en python
+
+>- Muchos paquetes pueden ser encontrados en el Python Package Index (PyPI).
+>- Python 3.4 y posteriores incluyen pip (pip3 para Python3) por defecto; lo
+>cual no es necesario instalarlo en nuestra pc ya que al instalar python en la
+>version 3.4 o superior en automaático se instala el gestor de paquetes.
+
+-Una de las principales ventajas de utilizar el gestor de paquetes Python es el número de librerías o bibliotecas de código excelentes que están amplia y fácilmente disponibles y que te pueden ahorrar escribir mucho código, o simplemente realizar una tarea particular de la manera más sencilla.
+
+## COMO INSTALAR PIP PARA PYTHHON EN WINDOWS
+
+![image](https://github.com/user-attachments/assets/a5af884e-f110-4c7f-8e6a-d73ec13c1ce0)
+
+## QUE ES UNA LIBRERIA EN PYTHON
+
+-A grandes rasgos, cabe destacar que en programación una librería responde al conjunto de funcionalidades que permiten al usuario  llevar a cabo nuevas tareas que antes no se podían realizar.
+
+-Es decir, las librerías de Python responden al conjunto de implementaciones que permiten codificar este lenguaje, con el objeto de crear una interfaz independiente.
+
+## COMO INSTALAR LIBRERIAS EN PYTHON
+
+![image](https://github.com/user-attachments/assets/5867a6e7-9a6b-4270-bce7-7c962538ec1b)
+
+========================================================================================================================================================================================
+## CUALES SON LAS LIBRERIAS MAS POPULARES DE PYTHON
+
+-Segun el Inmune Technology Institute (Centro de formación ubicado en Madrid, España) estas son las mejores 9 librerias para usar en python 
+
+![image](https://github.com/user-attachments/assets/1894791e-3ef0-4f30-ae7c-6b4b5bb2ec7f)
+![image](https://github.com/user-attachments/assets/4fb52870-cf9f-4897-8425-2719863c1068)
+
+========================================================================================================================================================================================
+
+# BIBLIOGRAFIAS
+
+La informacion presentada en este repositorio fue toma de:
+-[buscaminegocio]: <[http://example.com/](https://www.buscaminegocio.com/cursos-de-python/pip-en-python.html)>
+-[inmune.institute]: <[http://example.com/](https://immune.institute/blog/librerias-python-que-son/)>
+-[tecnonucleous]: <[http://example.com/](https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/)>
+
+========================================================================================================================================================================================
+
+# NICOLAS RAMIREZ RODRIGUEZ 1000506513
